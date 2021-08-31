@@ -4,7 +4,7 @@ class Contact < ApplicationRecord
     "João Victor Chaves"
   end
   def kind_description
-    self.kind.description
+    self.kind.description rescue nil
   end
   def as_json(options = nil)
     super(
