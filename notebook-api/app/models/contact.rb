@@ -8,10 +8,8 @@ class Contact < ApplicationRecord
     self.kind.description rescue nil
   end
   def as_json(options = nil)
-    super(
-      methods: [:kind_description, :author],
-      root: true,
-      # include: { kind: {only: :description}}
-      )
+    hash = super(options)
+    hash[:birthdate] = I18n.l(self[:birthdate]) unless self[:birthdate].nil?
+    hash
   end
 end
