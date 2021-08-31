@@ -3,8 +3,14 @@ class Contact < ApplicationRecord
   def author
     "João Victor Chaves"
   end
-
+  def kind_description
+    self.kind.description
+  end
   def as_json(options = nil)
-    super(methods: :author, root: true)
+    super(
+      methods: [:kind_description, :author],
+      root: true,
+      # include: { kind: {only: :description}}
+      )
   end
 end
