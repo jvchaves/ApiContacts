@@ -7,6 +7,8 @@
       <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/controllers/contacts_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/controllers/contacts_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/models/contact.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/models/contact.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/lib/tasks/dev.rake" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/lib/tasks/dev.rake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +153,7 @@
       <workItem from="1630345426618" duration="6067000" />
       <workItem from="1630411755520" duration="2136000" />
       <workItem from="1630414880797" duration="37000" />
-      <workItem from="1630437663514" duration="620000" />
+      <workItem from="1630437663514" duration="2262000" />
     </task>
     <servers />
   </component>
