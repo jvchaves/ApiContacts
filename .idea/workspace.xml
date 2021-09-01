@@ -3,12 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5ee4388f-27fa-4266-9ce0-8d1d601f9562" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/controllers/contacts_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/controllers/contacts_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/models/contact.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/models/contact.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook-api/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook-api/lib/tasks/dev.rake" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/lib/tasks/dev.rake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/app/models/phone.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/models/phone.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/notebook-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/notebook-api.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +152,7 @@
       <workItem from="1630411755520" duration="2136000" />
       <workItem from="1630414880797" duration="37000" />
       <workItem from="1630437663514" duration="3147000" />
+      <workItem from="1630503022344" duration="1270000" />
     </task>
     <servers />
   </component>
@@ -161,6 +160,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ApiContacts@Development__notebook_api.rcov" NAME="Development: notebook-api Coverage Results" MODIFIED="1630438281457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook-api" MODULE_NAME="notebook-api" />
+    <SUITE FILE_PATH="coverage/ApiContacts@Development__notebook_api.rcov" NAME="Development: notebook-api Coverage Results" MODIFIED="1630503184966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook-api" MODULE_NAME="notebook-api" />
   </component>
 </project>
