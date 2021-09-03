@@ -10,7 +10,7 @@ class KindsController < ApplicationController
 
   # GET /kinds/1
   def show
-    render json: @kind
+    render json: @kind, include: :kind
   end
 
   # POST /kinds

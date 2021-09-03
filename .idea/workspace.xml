@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee4388f-27fa-4266-9ce0-8d1d601f9562" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/notebook-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/notebook-api.iml" afterDir="false" />
@@ -155,7 +154,7 @@
       <workItem from="1630518205572" duration="15000" />
       <workItem from="1630577309954" duration="3366000" />
       <workItem from="1630584429792" duration="46000" />
-      <workItem from="1630664178898" duration="1121000" />
+      <workItem from="1630664178898" duration="1535000" />
     </task>
     <servers />
   </component>
