@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee4388f-27fa-4266-9ce0-8d1d601f9562" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/controllers/contacts_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/controllers/contacts_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/models/address.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/models/address.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/app/models/contact.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/models/contact.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/config/initializers/cors.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/config/initializers/cors.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/notebook-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/notebook-api.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Icertus/certus-web" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Rails.Development: notebook-api">
@@ -151,7 +157,8 @@
       <workItem from="1630437663514" duration="3147000" />
       <workItem from="1630503022344" duration="3429000" />
       <workItem from="1630518205572" duration="15000" />
-      <workItem from="1630577309954" duration="2746000" />
+      <workItem from="1630577309954" duration="3366000" />
+      <workItem from="1630584429792" duration="46000" />
     </task>
     <servers />
   </component>
@@ -168,6 +175,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ApiContacts@Development__notebook_api.rcov" NAME="Development: notebook-api Coverage Results" MODIFIED="1630579577825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook-api" MODULE_NAME="notebook-api" />
