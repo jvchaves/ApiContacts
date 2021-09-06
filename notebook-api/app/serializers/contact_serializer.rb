@@ -12,4 +12,7 @@ class ContactSerializer < ActiveModel::Serializer
     hash[:birthdate] = object[:birthdate].to_time.iso8601 unless object[:birthdate].nil?
     hash
   end
+  meta do
+    {author: 'João Victor Chaves'}
+  end
 end
