@@ -4,6 +4,7 @@
     <list default="true" id="5ee4388f-27fa-4266-9ce0-8d1d601f9562" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/serializers/contact_serializer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/serializers/contact_serializer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/config/environments/development.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +155,7 @@
       <workItem from="1630577309954" duration="3366000" />
       <workItem from="1630584429792" duration="46000" />
       <workItem from="1630664178898" duration="2360000" />
-      <workItem from="1630922166584" duration="1127000" />
+      <workItem from="1630922166584" duration="1801000" />
     </task>
     <servers />
   </component>
@@ -174,6 +175,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ApiContacts@Development__notebook_api.rcov" NAME="Development: notebook-api Coverage Results" MODIFIED="1630923305273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook-api" MODULE_NAME="notebook-api" />
+    <SUITE FILE_PATH="coverage/ApiContacts@Development__notebook_api.rcov" NAME="Development: notebook-api Coverage Results" MODIFIED="1630923982902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook-api" MODULE_NAME="notebook-api" />
   </component>
 </project>
