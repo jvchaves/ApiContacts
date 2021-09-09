@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee4388f-27fa-4266-9ce0-8d1d601f9562" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/serializers/contact_serializer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/serializers/contact_serializer.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/config/environments/development.rb" afterDir="false" />
     </list>
@@ -31,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Icertus/certus-web" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Rails.Development: notebook-api">
@@ -155,7 +158,10 @@
       <workItem from="1630577309954" duration="3366000" />
       <workItem from="1630584429792" duration="46000" />
       <workItem from="1630664178898" duration="2360000" />
-      <workItem from="1630922166584" duration="1801000" />
+      <workItem from="1630922166584" duration="2681000" />
+      <workItem from="1630946747585" duration="1812000" />
+      <workItem from="1631130413233" duration="75000" />
+      <workItem from="1631180951252" duration="634000" />
     </task>
     <servers />
   </component>
@@ -175,6 +181,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ApiContacts@Development__notebook_api.rcov" NAME="Development: notebook-api Coverage Results" MODIFIED="1630923982902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook-api" MODULE_NAME="notebook-api" />
+    <SUITE FILE_PATH="coverage/ApiContacts@Development__notebook_api.rcov" NAME="Development: notebook-api Coverage Results" MODIFIED="1630924157717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook-api" MODULE_NAME="notebook-api" />
   </component>
 </project>
