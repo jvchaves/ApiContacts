@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook-api/app/controllers/contacts_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/controllers/contacts_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/serializers/contact_serializer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/serializers/contact_serializer.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/config/environments/development.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/config/initializers/mime_types.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/config/initializers/mime_types.rb" afterDir="false" />
@@ -162,7 +163,7 @@
       <workItem from="1630922166584" duration="2681000" />
       <workItem from="1630946747585" duration="1812000" />
       <workItem from="1631130413233" duration="75000" />
-      <workItem from="1631180951252" duration="2940000" />
+      <workItem from="1631180951252" duration="3802000" />
     </task>
     <servers />
   </component>
