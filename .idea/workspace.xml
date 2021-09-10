@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee4388f-27fa-4266-9ce0-8d1d601f9562" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/app/serializers/contact_serializer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/app/serializers/contact_serializer.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook-api/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook-api/config/routes.rb" afterDir="false" />
     </list>
@@ -161,7 +160,7 @@
       <workItem from="1630946747585" duration="1812000" />
       <workItem from="1631130413233" duration="75000" />
       <workItem from="1631180951252" duration="3802000" />
-      <workItem from="1631268541309" duration="2618000" />
+      <workItem from="1631268541309" duration="2934000" />
     </task>
     <servers />
   </component>
