@@ -7,7 +7,6 @@ class PhonesController < ApplicationController
   private
 
   def set_phones
-    params[:contact_id].present? ? @phones = Contact.find(params[:contact_id]).phones : @phones = Phone.where(id: params[:id])
-    @phones
+    @phones = Contact.find(params[:contact_id]).phones
   end
 end
