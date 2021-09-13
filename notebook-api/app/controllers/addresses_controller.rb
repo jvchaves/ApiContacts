@@ -1,6 +1,10 @@
 class AddressesController < ApplicationController
   before_action :set_contact
 
+  def destroy
+    @contact.address.destroy
+  end
+
   def create
     @contact.address.new(address_params)
     if @contact.save
@@ -9,6 +13,7 @@ class AddressesController < ApplicationController
       render json: @contact.errors, status: :unprocessable_entity
     end
   end
+
   def update
     if @contact.address.update(address_params)
       render json: @contact.address
@@ -16,6 +21,7 @@ class AddressesController < ApplicationController
       render json: @contact.errors, status: :unprocessable_entity
     end
   end
+
   def show
     render json: @contact.address
   end
